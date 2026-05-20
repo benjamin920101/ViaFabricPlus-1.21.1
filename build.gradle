@@ -42,7 +42,7 @@ repositories {
 		url = "https://jitpack.io"
 
 		content {
-			includeGroup "com.github.oryxel1"
+			includeGroup "com.github.Oryxel"
 		}
 	}
 }
